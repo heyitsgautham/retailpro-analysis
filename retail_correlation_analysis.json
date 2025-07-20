@@ -1,4 +1,1 @@
-{
-  "pair": "Net_Sales-Promo_Spend",
-  "correlation": 0.91
-}
+{"pair": "Avg_Basket-Net_Sales", "correlation": 0.69}
